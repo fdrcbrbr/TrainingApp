@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Timer Logo")
+![alt text](https://github.com/fdrcbrbr/TrainingApp/blob/master/timer-icon-vector.jpg "Timer Logo")
 #
 # Android App for training
 #
