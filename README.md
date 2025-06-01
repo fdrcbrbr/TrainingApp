@@ -1,4 +1,4 @@
-# ![Timer Logo] (https://github.com/fdrcbrbr/TrainingApp/blob/master/timer-icon-vector.jpg)
+![Timer Logo] (https://github.com/fdrcbrbr/TrainingApp/blob/master/timer-icon-vector.jpg)
 #
 # Android App for training
 #
